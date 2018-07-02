@@ -4,7 +4,7 @@
 #
 Name     : R-DistributionUtils
 Version  : 0.5.1
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/DistributionUtils_0.5-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/DistributionUtils_0.5-1.tar.gz
 Summary  : Distribution Utilities
