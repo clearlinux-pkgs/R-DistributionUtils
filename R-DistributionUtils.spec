@@ -4,7 +4,7 @@
 #
 Name     : R-DistributionUtils
 Version  : 0.6.0
-Release  : 18
+Release  : 19
 URL      : https://cran.r-project.org/src/contrib/DistributionUtils_0.6-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/DistributionUtils_0.6-0.tar.gz
 Summary  : Distribution Utilities
@@ -32,10 +32,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552751594
+export SOURCE_DATE_EPOCH=1552919732
 
 %install
-export SOURCE_DATE_EPOCH=1552751594
+export SOURCE_DATE_EPOCH=1552919732
 rm -rf %{buildroot}
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
