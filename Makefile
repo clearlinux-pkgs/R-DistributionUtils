@@ -1,5 +1,5 @@
 PKG_NAME := R-DistributionUtils
-URL = https://cran.r-project.org/src/contrib/DistributionUtils_0.6-1.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/DistributionUtils_0.6-2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
